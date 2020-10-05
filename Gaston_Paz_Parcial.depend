@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1600890852 source:c:\users\user\desktop\gaston_paz_parcial\configuracion.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"configuracion.h"
+	"rlutil.h"
+
+1600890826 c:\users\user\desktop\gaston_paz_parcial\generales.h
+	"struct.h"
+
+1600889690 c:\users\user\desktop\gaston_paz_parcial\struct.h
+
+1600890772 c:\users\user\desktop\gaston_paz_parcial\entrenamientos.h
+	"struct.h"
+
+1600890442 c:\users\user\desktop\gaston_paz_parcial\configuracion.h
+	"struct.h"
+
+1571454738 c:\users\user\desktop\gaston_paz_parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600890836 source:c:\users\user\desktop\gaston_paz_parcial\creditos.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"rlutil.h"
+
+1600898830 source:c:\users\user\desktop\gaston_paz_parcial\entrenamientos.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+
+1600890546 c:\users\user\desktop\gaston_paz_parcial\validaciones.h
+	"struct.h"
+
+1600890866 source:c:\users\user\desktop\gaston_paz_parcial\generales.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"configuracion.h"
+	"reporte.h"
+	"rlutil.h"
+
+1600889838 c:\users\user\desktop\gaston_paz_parcial\usuarios.h
+	"struct.h"
+
+1600992496 c:\users\user\desktop\gaston_paz_parcial\reporte.h
+	"struct.h"
+
+1600898850 source:c:\users\user\desktop\gaston_paz_parcial\main.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	"generales.h"
+	"rlutil.h"
+
+1600898134 source:c:\users\user\desktop\gaston_paz_parcial\salidas_pantalla.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"rlutil.h"
+
+1600898618 source:c:\users\user\desktop\gaston_paz_parcial\usuarios.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+
+1600898472 source:c:\users\user\desktop\gaston_paz_parcial\validaciones.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+
+1600992802 source:c:\users\user\desktop\gaston_paz_parcial\reporte.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"reporte.h"
+	"rlutil.h"
+

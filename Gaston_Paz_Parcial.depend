@@ -128,3 +128,132 @@
 	"reporte.h"
 	"rlutil.h"
 
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\configuracion.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"configuracion.h"
+	"rlutil.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\generales.h
+	"struct.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\struct.h
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\entrenamientos.h
+	"struct.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\configuracion.h
+	"struct.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\creditos.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"rlutil.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\entrenamientos.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\validaciones.h
+	"struct.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\generales.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"configuracion.h"
+	"reporte.h"
+	"rlutil.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\usuarios.h
+	"struct.h"
+
+1606161746 c:\users\gastón\documents\github\app_lara_gym\reporte.h
+	"struct.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\main.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	"generales.h"
+	"rlutil.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\reporte.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"reporte.h"
+	"rlutil.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\salidas_pantalla.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"rlutil.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\usuarios.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"usuarios.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+
+1606161746 source:c:\users\gastón\documents\github\app_lara_gym\validaciones.cpp
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<iostream>
+	<ctime>
+	"generales.h"
+	"entrenamientos.h"
+	"validaciones.h"
+	"rlutil.h"
+

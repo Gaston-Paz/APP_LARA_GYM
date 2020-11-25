@@ -32,7 +32,27 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="configuracion.cpp" />
+		<Unit filename="configuracion.h" />
+		<Unit filename="creditos.cpp" />
+		<Unit filename="entrenamientos.cpp" />
+		<Unit filename="entrenamientos.h" />
+		<Unit filename="generales.cpp" />
+		<Unit filename="generales.h" />
 		<Unit filename="main.cpp" />
-		<Extensions />
+		<Unit filename="reporte.cpp" />
+		<Unit filename="reporte.h" />
+		<Unit filename="rlutil.h" />
+		<Unit filename="salidas_pantalla.cpp" />
+		<Unit filename="struct.h" />
+		<Unit filename="usuarios.cpp" />
+		<Unit filename="usuarios.h" />
+		<Unit filename="validaciones.cpp" />
+		<Unit filename="validaciones.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
